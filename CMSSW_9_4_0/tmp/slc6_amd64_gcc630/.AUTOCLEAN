@@ -1,0 +1,4 @@
+
+/bin/rm -rf tmp/slc6_amd64_gcc630/edmplugins/poison/SingleMuon2017RunF/crab_TTree_13TeV_CharmoniumF_JpsiZUpsNoTrigger
+/bin/rm -rf tmp/slc6_amd64_gcc630/edmplugins/poison/SingleMuon2017RunF/crab_TTree_13TeV_SingleMuon2017F_JpsiZUpsNoTrigger_2nd
+/bin/touch tmp/common/cache/packs/changed

@@ -1,0 +1,2 @@
+ALL_PACKAGES += FourMuAnalysis/Upsilon
+subdirs_src_FourMuAnalysis_Upsilon := src_FourMuAnalysis_Upsilon_plugins src_FourMuAnalysis_Upsilon_python src_FourMuAnalysis_Upsilon_test

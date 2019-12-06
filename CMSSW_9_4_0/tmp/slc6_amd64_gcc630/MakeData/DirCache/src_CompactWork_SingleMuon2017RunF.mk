@@ -1,0 +1,2 @@
+ALL_PACKAGES += CompactWork/SingleMuon2017RunF
+subdirs_src_CompactWork_SingleMuon2017RunF := src_CompactWork_SingleMuon2017RunF_crab_TTree_13TeV_SingleMuon2017F_JpsiZUps_NoTrigger_Compact1

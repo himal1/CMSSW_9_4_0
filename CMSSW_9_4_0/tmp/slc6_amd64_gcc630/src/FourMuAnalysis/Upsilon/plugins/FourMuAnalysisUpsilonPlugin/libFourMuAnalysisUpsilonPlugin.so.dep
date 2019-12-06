@@ -1,0 +1,4 @@
+tmp/slc6_amd64_gcc630/src/FourMuAnalysis/Upsilon/plugins/FourMuAnalysisUpsilonPlugin/PATEventTree_Flatten.o: \
+ src/FourMuAnalysis/Upsilon/plugins/PATEventTree_Flatten.cc \
+ src/FourMuAnalysis/Upsilon/plugins/PATEventTree_Flatten.h \
+
